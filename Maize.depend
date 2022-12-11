@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1599407020 source:d:\documents\esg\learnc101\pacmansemproject - modified\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<time.h>
+
+1596118728 d:\documents\esg\learnc101\pacmansemproject - modified\esd.h
+	<windows.h>
+
+1614445706 source:d:\documents\esg\learnc101\pacmansemproject - modified2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<time.h>
+
+1596118728 d:\documents\esg\learnc101\pacmansemproject - modified2\esd.h
+	<windows.h>
+
+1670744486 source:c:\users\sthembiso musana\documents\programming\c-and-cpp\pacmansemproject - modified2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"ESD.h"
+	<time.h>
+
+1670743689 c:\users\sthembiso musana\documents\programming\c-and-cpp\pacmansemproject - modified2\esd.h
+	<windows.h>
+
